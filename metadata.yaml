@@ -1,0 +1,41 @@
+_repo: La-Legendo-de-Dorm-Valeto_19293
+_version: 0.1.0
+alternative_title: The Legend of Sleepy Hollow. Esperanto
+contributor:
+  translator:
+    agent_name: Grobe, Edwin
+    birthdate: 1927
+    gutenberg_agent_id: '7369'
+    url: http://www.gutenberg.org/2009/agents/7369
+    wikipedia: http://eo.wikipedia.org/wiki/Edwin_GROBE
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_bookshelf:
+- Esperanto
+- Harvard Classics
+- Children's Literature
+gutenberg_issued: '2006-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19293'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New York (State) -- History -- 1775-1865 -- Fiction'
+title: La Legendo de Dorm-Valeto
+url: http://www.gutenberg.org/ebooks/19293
