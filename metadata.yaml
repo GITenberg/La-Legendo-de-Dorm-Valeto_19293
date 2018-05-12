@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19293#La-Legendo-de-Dorm-Valeto
 gutenberg_bookshelf:
 - Esperanto
 - Harvard Classics
